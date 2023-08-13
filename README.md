@@ -14,7 +14,7 @@
 
 ```php
   $mail->Username = ''; // Your Gmail address
-  $mail->Password = ''; // Your Gmail password
+  $mail->Password = ''; // Your Gmail App password
   $mail->setFrom(''); // Your Gmail address (again)
   $mail->addAddress(''); // Your recipient, where the email will be sent
 ```
